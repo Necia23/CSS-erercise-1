@@ -1,15 +1,21 @@
+nav {
+    text-align: center;
+    font-size: 28px;
+}
+a{
+    text-display: none;
+    color: orange;
+    font-width: bold;
+}
 body {
     background-color: #7DFFC8;
-    /*background-image: url(../images/orange.png);*/
 }
 #bold-font {
     font-size: 20px;
-    font-style: italic;
-    font-family: 'Times New Roman', Times, serif;
-    font-family: Roboto;
-    font-weight: 800;
+    font-family: 'Times New Roman';
     background-color: white;
 }
-img{
+#div-imagine{
     border: 3px solid yellow;
+    text-align: center;
 }
